@@ -1,0 +1,11 @@
+,sig1,sig2,r,p
+0,avg_bt,phq-9_post,-0.363,0.025
+0,avg_bt,big5-a_pre,-0.324,0.047
+0,avg_bt,gpa_13s,0.447,0.048
+0,avg_dist,gpa_13s,-0.516,0.004
+0,avg_dist,cs_65,-0.515,0.004
+0,locations,phq-9_post,-0.335,0.04
+0,avg_num_activities,phq-9_pre,0.623,0.0
+1,avg_num_activities,phq-9_post,0.459,0.004
+2,avg_num_running,phq-9_pre,0.459,0.004
+0,entertainment,panas-pos_pre,0.201,0.227
